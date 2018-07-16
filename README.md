@@ -15,6 +15,8 @@ Microsoft：
 
 [.NET Foundation](https://github.com/dotnet)
 
+[.Net Core](https://github.com/dotnet/core)
+
 [ASP.NET Core 社区翻译](https://github.com/dotnetcore/aspnetcore-doc-cn)
 
 [博客园 社区翻译](http://www.cnblogs.com/dotNETCoreSG/p/aspnetcore-index.html)
@@ -22,3 +24,5 @@ Microsoft：
 [identityserver](https://github.com/IdentityServer)
 
 [identityserver4中文文档](http://identityserver4-zh-cn.readthedocs.io/zh_CN/release/)
+
+[dotnet聊天室](https://gitter.im/dotnet/community)
