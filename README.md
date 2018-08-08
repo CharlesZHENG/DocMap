@@ -26,3 +26,5 @@ Microsoft：
 [identityserver4中文文档](http://identityserver4-zh-cn.readthedocs.io/zh_CN/release/)
 
 [dotnet聊天室](https://gitter.im/dotnet/community)
+
+[工具集、博客](http://www.ikende.com/)
