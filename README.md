@@ -28,3 +28,5 @@ Microsoft：
 [dotnet聊天室](https://gitter.im/dotnet/community)
 
 [工具集、博客](http://www.ikende.com/)
+
+[Nuget包(可能会有pre版)](https://dotnet.myget.org/gallery)
