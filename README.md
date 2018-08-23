@@ -52,6 +52,8 @@ Microsoft 文档：
 
 [csharpkit](https://www.csharpkit.com/)
 
+[linezero](https://www.cnblogs.com/linezero/)
+
 [martinfowler](https://martinfowler.com/)
 
 [knight94](https://me.csdn.net/knight94)
@@ -63,3 +65,7 @@ Microsoft 文档：
 [沈剑](http://zhuanlan.51cto.com/columnlist/shenj/)
 
 [美团](https://tech.meituan.com/archives)
+
+----
+主题：
+[Hunter](https://www.cnblogs.com/zd1994/category/1135637.html)
