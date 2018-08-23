@@ -17,6 +17,8 @@ Microsoft 文档：
 
 [identityserver4中文文档](http://identityserver4-zh-cn.readthedocs.io/zh_CN/release/)
 
+[计算机网络文档](https://hit-alibaba.github.io/interview/basic/network/HTTP.html)
+
 ----
 工具：
 
@@ -25,6 +27,8 @@ Microsoft 文档：
 [工具集、博客](http://www.ikende.com/)
 
 [Nuget包(可能会有pre版)](https://dotnet.myget.org/gallery)
+
+[Azure功能](https://www.azure.cn/en-us/support/service-dashboard/)
 
 ----
 源码：
@@ -42,8 +46,20 @@ Microsoft 文档：
 
 [C# corner](https://www.c-sharpcorner.com/)
 
+[infoq](http://www.infoq.com/cn/)
+
+[极客邦](https://www.geekbang.org/)
+
+[csharpkit](https://www.csharpkit.com/)
+
 [martinfowler](https://martinfowler.com/)
 
 [knight94](https://me.csdn.net/knight94)
 
 [patterns & practices](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ff921345(v%3dpandp.10))
+
+[Matthew Cochran](https://www.c-sharpcorner.com/members/matthew-cochran/articles)
+
+[沈剑](http://zhuanlan.51cto.com/columnlist/shenj/)
+
+[美团](https://tech.meituan.com/archives)
